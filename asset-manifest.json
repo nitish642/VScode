@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/VScode/static/css/main.32fe2cab.css",
+    "main.js": "/VScode/static/js/main.a1eb2d61.js",
+    "static/media/184069-872413642_small.mp4": "/VScode/static/media/184069-872413642_small.9a54b9082ae41196554e.mp4",
+    "static/media/28707-371213524.mp4": "/VScode/static/media/28707-371213524.2a98e2b3e339bc50a68a.mp4",
+    "static/media/img(9).jpg": "/VScode/static/media/img(9).d77dd974a3777981dca7.jpg",
+    "static/media/img(6).jpg": "/VScode/static/media/img(6).36b6e03f82dafd9d4d50.jpg",
+    "static/media/img(4).jpg": "/VScode/static/media/img(4).a1b6c2ed11a722e3d1bf.jpg",
+    "static/media/img(5).jpg": "/VScode/static/media/img(5).cc048a5f6e99f94f40aa.jpg",
+    "static/media/img(3).jpg": "/VScode/static/media/img(3).2f9d9d837e594607e2ef.jpg",
+    "static/media/img(2).jpg": "/VScode/static/media/img(2).a3a992338ece3ae4185c.jpg",
+    "static/media/img(7).jpg": "/VScode/static/media/img(7).515ccef761f71aea4f16.jpg",
+    "static/media/img(8).jpg": "/VScode/static/media/img(8).d7cf4ed6057e2e661521.jpg",
+    "static/media/img(1).jpg": "/VScode/static/media/img(1).0eb0f67fdb5cc9fb64a6.jpg",
+    "index.html": "/VScode/index.html",
+    "main.32fe2cab.css.map": "/VScode/static/css/main.32fe2cab.css.map",
+    "main.a1eb2d61.js.map": "/VScode/static/js/main.a1eb2d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32fe2cab.css",
+    "static/js/main.a1eb2d61.js"
+  ]
+}
